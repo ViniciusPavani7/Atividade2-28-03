@@ -45,7 +45,7 @@
   </tr>
   <tr>
     <td>29</td>
-    <td>Victr</td>
+    <td>Victor</td>
     <td>dos Santos Calori</td>
     <td>16</td>
   </tr>
