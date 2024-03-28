@@ -14,9 +14,27 @@
     <td>18</td>
   </tr>
   <tr>
+    <td>7</td>
+    <td>Enzo</td>
+    <td>Ferreira dos Santos</td>
+    <td>16</td>
+  </tr>
+  <tr>
+    <td>8</td>
+    <td>Evelyn</td>
+    <td>dos Santos Moura</td>
+    <td>17<//td>
+  </tr>
+  <tr>
     <td>16</td>
     <td>Isabella</td>
-    <td>Bertolo 	dos Santos</td>
+    <td>Bertolo dos Santos</td>
+    <td>17</td>
+  </tr>
+  <tr>
+    <td>19</td>
+    <td>Isabella</td>
+    <td>Almeida dos Santos</td>
     <td>17</td>
   </tr>
   <tr>
@@ -31,4 +49,5 @@
     <td>dos Santos</td>
     <td>17</td>
   </tr>
+
 </table>
