@@ -44,6 +44,12 @@
     <td>18</td>
   </tr>
   <tr>
+    <td>29</td>
+    <td>Victr</td>
+    <td>dos Santos Calori</td>
+    <td>16</td>
+  </tr>
+  <tr>
     <td>33</td>
     <td>Rafaella</td>
     <td>dos Santos</td>
